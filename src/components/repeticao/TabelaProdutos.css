@@ -1,0 +1,22 @@
+.TabelaProdutos, .TabelaProdutos table{
+    width: 100%;
+    border:0px solid #fff;
+}
+
+.TabelaProdutos th{
+    background-color: #962;
+    padding:4px;
+} 
+
+.TabelaProdutos td{
+    text-align:center;
+    padding:4px;
+}  
+
+.TabelaProdutos .Par{
+    background-color: #999;
+}
+
+.TabelaProdutos .Impar{
+    background-color: #eee;
+}
